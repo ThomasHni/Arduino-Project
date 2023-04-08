@@ -1,5 +1,5 @@
 #define NOMBRE_DE_BOUTONS 5
-
+//commentaire
 // Un tableau pour contenir les valeurs des broches des boutons
 const int brochesBouton[NOMBRE_DE_BOUTONS] = {2, 3, 4, 5, 6};
 // Un tableau pour contenir les numéros de broche des LED
